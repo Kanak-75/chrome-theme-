@@ -9,20 +9,81 @@
       "theme_ntp_background": "images/nympheas (water lilies) Monet.png"
     },
     "colors": {
-      "frame": [24, 43, 66],
-      "frame_inactive": [24, 43, 66],
-      "frame_incognito": [24, 43, 66],
-      "frame_incognito_inactive": [24, 43, 66],
-      "toolbar": [24, 43, 66],
-      "tab_text": [255, 255, 255],
-      "tab_background_text": [220, 230, 242],
-      "bookmark_text": [255, 255, 255],
-      "ntp_background": [24, 43, 66],
-      "ntp_text": [255, 255, 255],
-      "ntp_link": [190, 210, 235],
-      "button_background": [24, 43, 66],
-      "omnibox_background": [24, 43, 66],
-      "omnibox_text": [255, 255, 255]
+      "frame": [
+        24,
+        43,
+        66
+      ],
+      "frame_inactive": [
+        24,
+        43,
+        66
+      ],
+      "frame_incognito": [
+        24,
+        43,
+        66
+      ],
+      "frame_incognito_inactive": [
+        24,
+        43,
+        66
+      ],
+      "toolbar": [
+        24,
+        43,
+        66
+      ],
+      "tab_text": [
+        255,
+        255,
+        255
+      ],
+      "tab_background_text": [
+        220,
+        230,
+        242
+      ],
+      "bookmark_text": [
+        255,
+        255,
+        255
+      ],
+      "ntp_background": [
+        24,
+        43,
+        66
+      ],
+      "ntp_text": [
+        255,
+        255,
+        255
+      ],
+      "ntp_link": [
+        190,
+        210,
+        235
+      ],
+      "button_background": [
+        24,
+        43,
+        66
+      ],
+      "omnibox_background": [
+        24,
+        43,
+        66
+      ],
+      "omnibox_text": [
+        255,
+        255,
+        255
+      ],
+      "control_background": [
+        24,
+        43,
+        66
+      ]
     },
     "properties": {
       "ntp_background_alignment": "center",
