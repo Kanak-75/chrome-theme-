@@ -1,49 +1,25 @@
-# Monet's Water Lilies — Chrome Theme
+# ☕ a little corner of the internet
 
-A soft, nature-inspired Google Chrome theme drawing its palette from Claude Monet's *Water Lilies*: muted pond greens, pale sage, and quiet botanical tones.
+Hi, I'm Kanak!
 
-## Preview image
+I'm a room-locked person with a soft spot for English literature, coffee, music, and art. I'd happily spend hours getting lost in a book, listening to the same song on repeat, or staring at a painting and imagining a hundred different things.
 
-The New Tab Page background is loaded from:
+I love romanticising the little things — unfinished cups of coffee, beautifully written sentences, late-night thoughts, and music that makes an ordinary moment feel extraordinary.
 
-`images/theme_ntp_background.png`
+## 🎨 a little Monet magic
 
-Add your chosen Water Lilies image at that exact path and filename. Use a high-resolution PNG (ideally at least 1920 × 1080) so it stays crisp on larger screens. Keep the main visual subject near the center because browser shortcuts may cover part of the image.
+This little project is inspired by Claude Monet's *Water Lilies*.
 
-## Install locally
+There's something incredibly whimsical about watching those blue lilies while Debussy's *Clair de Lune* plays softly in the background. The colours, the reflections, the music — for a moment, it feels like the rest of the world has gone quiet.
 
-1. Clone or download this repository.
-2. Add your image as `images/theme_ntp_background.png`.
-3. Open `chrome://extensions` in Google Chrome.
-4. Turn on **Developer mode**.
-5. Select **Load unpacked** and choose this repository folder.
+I hope you try it too. Open a new tab, put on *Clair de Lune*, and let yourself get lost in the lilies for a while. Maybe you'll find the same little bit of magic that I did.
 
-To remove it, open **Manage extensions** and select **Remove** on the theme. Your search engine setting (including Yahoo) is separate and will not be changed by this theme.
+## 🌿 about the project
 
-## Publish on the Chrome Web Store
+A Google Chrome theme inspired by Monet's *Water Lilies*, featuring soft, muted blues, gentle colour contrasts, and a little piece of art on your New Tab page.
 
-1. Make sure the image file is included in the project.
-2. Create a ZIP of the project contents, with `manifest.json` at the ZIP root (not inside an extra parent folder).
-3. Register in the [Chrome Web Store Developer Dashboard](https://chrome.google.com/webstore/devconsole).
-4. Upload the ZIP, add screenshots and listing details, choose public visibility, and submit it for review.
+Made with love, a little curiosity, and probably too much coffee.
 
-Google may require a one-time developer registration fee. Review the current dashboard requirements before submitting.
+---
 
-## Artwork and attribution
-
-Claude Monet's original paintings are generally in the public domain, but a particular photograph or digital reproduction can have its own copyright or licensing terms. Use an image you have permission to redistribute, and add its source/credit here if required.
-
-## Project structure
-
-```
-chrome-theme-/
-├── manifest.json
-├── README.md
-└── images/
-    ├── .gitkeep
-    └── theme_ntp_background.png   # add your image here
-```
-
-## License
-
-The theme configuration in this repository is provided under the MIT License. This does not grant rights to any third-party artwork added to the `images/` folder.
+*For the love of literature, art, music, and finding entire worlds within four walls.*
