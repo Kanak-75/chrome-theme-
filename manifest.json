@@ -6,7 +6,7 @@
   "description": "A calm Google Chrome theme inspired by Claude Monet's Water Lilies.",
   "theme": {
     "images": {
-      "theme_ntp_background": "images/theme_ntp_background.png"
+      "theme_ntp_background": "images/nympheas (water lilies) Monet.png"
     },
     "colors": {
       "frame": [25, 54, 91],
