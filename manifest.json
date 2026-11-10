@@ -9,19 +9,19 @@
       "theme_ntp_background": "images/nympheas (water lilies) Monet.png"
     },
     "colors": {
-      "frame": [25, 54, 91],
-      "frame_inactive": [25, 54, 91],
-      "frame_incognito": [25, 54, 91],
-      "frame_incognito_inactive": [25, 54, 91],
-      "toolbar": [25, 54, 91],
+      "frame": [0, 0, 102],
+      "frame_inactive": [0, 0, 102],
+      "frame_incognito": [0, 0, 102],
+      "frame_incognito_inactive": [0, 0, 102],
+      "toolbar": [0, 0, 102],
       "tab_text": [255, 255, 255],
       "tab_background_text": [220, 230, 242],
       "bookmark_text": [255, 255, 255],
-      "ntp_background": [25, 54, 91],
+      "ntp_background": [0, 0, 102],
       "ntp_text": [255, 255, 255],
       "ntp_link": [190, 210, 235],
-      "button_background": [25, 54, 91],
-      "omnibox_background": [25, 54, 91],
+      "button_background": [0, 0, 102],
+      "omnibox_background": [0, 0, 102],
       "omnibox_text": [255, 255, 255]
     },
     "properties": {
