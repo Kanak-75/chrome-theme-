@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Monet's Water Lilies",
+  "short_name": "Water Lilies",
+  "version": "1.0.0",
+  "description": "A calm Google Chrome theme inspired by Claude Monet's Water Lilies.",
+  "theme": {
+    "images": {
+      "theme_ntp_background": "images/theme_ntp_background.png"
+    },
+    "colors": {
+      "frame": [91, 119, 108],
+      "frame_inactive": [110, 133, 122],
+      "frame_incognito": [69, 91, 83],
+      "frame_incognito_inactive": [82, 103, 94],
+      "toolbar": [225, 231, 216],
+      "tab_text": [49, 66, 58],
+      "tab_background_text": [235, 239, 226],
+      "bookmark_text": [49, 66, 58],
+      "ntp_background": [215, 226, 211],
+      "ntp_text": [49, 66, 58],
+      "ntp_link": [70, 98, 83],
+      "button_background": [190, 207, 188]
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
